@@ -1,3 +1,5 @@
+package main.scala.itp1
+
 import scala.io.StdIn.{readInt, readLine}
 
 object ITP1_6_C {

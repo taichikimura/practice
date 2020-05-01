@@ -1,3 +1,5 @@
+package main.scala.itp1
+
 import scala.collection.mutable
 import scala.io.StdIn.{readInt, readLine}
 
