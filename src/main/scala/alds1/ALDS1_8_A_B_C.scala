@@ -1,5 +1,3 @@
-package main.scala.alds1
-
 import scala.collection.mutable.Stack
 import scala.io.StdIn.{readInt, readLine}
 
